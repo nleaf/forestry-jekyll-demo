@@ -7,7 +7,7 @@ tags: []
 related_posts: []
 
 ---
-## What are draft posts?
+## What are draft posts??
 
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
