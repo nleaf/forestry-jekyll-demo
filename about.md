@@ -13,7 +13,6 @@ menu:
   navigation:
     identifier: _about
     weight: 2
-    title: About222
   footer:
     identifier: _about
     weight: 3
